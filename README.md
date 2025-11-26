@@ -8,10 +8,10 @@ Aqui você encontrará tudo o que precisa para acompanhar as aulas e construir s
 
 ## 👨‍🏫 Professor
 
-| [<img src="https://avatars.githubusercontent.com/u/79340989?s=400&u=fcfb57bc9a07b8ce0eeae1195e243bb1cb56f6d8&v=4" width=115>  
-<sub>Claudeny Avelino</sub>](https://github.com/ClaudenyAvelino ) |
-|:---:|
-| **E-mail:** `claudeny.avelino@gmail.com` |
+[<img src="https://avatars.githubusercontent.com/u/79340989?s=400&u=fcfb57bc9a07b8ce0eeae1195e243bb1cb56f6d8&v=4" width="115" alt="Foto de Claudeny Avelino">](https://github.com/ClaudenyAvelino )
+
+**Claudeny Avelino**  
+**E-mail:** `claudeny.avelino@gmail.com`
 
 ---
 
